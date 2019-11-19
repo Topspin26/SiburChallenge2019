@@ -8,7 +8,7 @@
 
 3. run `./pet.sh` to reproduce solution for pet problem, as a result output file `pet_submit.csv` will be created.
 
-4. run `./poly.sh` to reproduce solution to polypropylene problem, as a result output file `poly_submit.csv` will be created. (it takes 2-5 hours)
+4. run `./poly.sh` to reproduce solution for polypropylene problem, as a result output file `poly_submit.csv` will be created. (it takes 2-5 hours)
 
 ### Private scores
 
